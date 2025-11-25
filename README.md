@@ -7,7 +7,7 @@ Kelas     :   7C <br>
 
 ## JUDUL PROJEK : CODEPLAY
 ## Deskripsi Umum
-CodePlay merupakan applikasi pemainan (mobike game) bertemakan pemrograman yang dikembangkan menggunakan flamework flutter. Game ini dirancang untuk melatih ketelitian dan pemahaman logika dasar pemrograman bagi junior developer melalui dua mode permainan utama yaitu SyntaxLab dan Syntax Showdown<br>
+CodePlay merupakan applikasi pemainan (mobile game) bertemakan pemrograman yang dikembangkan menggunakan framework flutter. Game ini dirancang untuk melatih ketelitian dan pemahaman logika dasar pemrograman bagi junior developer melalui dua mode permainan utama yaitu SyntaxLab dan Syntax Showdown<br>
 Berbeda dengan applikasi pembelajaran interaktif, CodePlay  berfokus pada aspek hiburan dan tantangan berfikir logis, bukan pada proses belajar formal. Pemain dihadapkan pada puzzle dan kuis berbasis sintax dari berbagai bahasa pemrograman seperti C++, Python, JavaScript, dan java<br>
 
 ## Teknologi yang digunakan
