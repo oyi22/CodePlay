@@ -45,4 +45,5 @@ Proyek CodePlay merupakan rancangan awal dari game bertema pemrograman yang ditu
 Fokus pengembangan saat ini adalah pada perancangan tampilan dan navigasi aplikasi menggunakan Flutter, tanpa integrasi sistem backend atau logika permainan. Aplikasi ini diharapkan dapat menjadi dasar pengembangan game logika berbasis sintaks pemrograman yang interaktif dan menantang pada tahap berikutnya
 
 ## Lampiran UI
+<img src="https://github.com/oyi22/CodePlay/blob/ec1eec66e89b92c0b6091ae0f5f1485cd19afbe8/Tampilan%20Home.jpg?raw=true" width="350">
 
